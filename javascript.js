@@ -1,4 +1,4 @@
-greet_popup()
+function greet_popup()
 {
     alert("Welcome to my portfolio!");
 }
